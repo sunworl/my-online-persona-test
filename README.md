@@ -5,6 +5,8 @@
 오프라인 MBTI는 알겠는데, 온라인에서의 나는 어떤 유형일까요?  
 12개 질문으로 알아보는 나의 **디지털 페르소나** 테스트입니다.
 
+[클릭] https://sunworl.github.io/my-online-persona-test/
+
 ![Online Persona Test](https://img.shields.io/badge/version-1.0.0-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
