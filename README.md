@@ -36,7 +36,7 @@
 ### 방법 2: GitHub Pages
 1. 이 저장소를 Fork
 2. Settings → Pages → Source: main branch
-3. `https://[username].github.io/[repo-name]` 에서 확인
+3. `https://[sunworl].github.io/[my-online-persona-test]` 에서 확인
 
 ### 방법 3: Vercel
 ```bash
@@ -81,4 +81,4 @@ MIT License - 자유롭게 사용, 수정, 배포 가능합니다.
 
 ---
 
-Made with 💜 by Claude & Human
+Made with 💜 by sunworl & Claude
